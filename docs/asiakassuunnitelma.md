@@ -351,4 +351,3 @@ Tämä on virallinen asiakirjarakenne sellaisenaan: kaikki osiot, kentät, viral
 - Ohje: Kenttään kirjataan palveluyksikön nimi SOTE-organisaatiorekisterin avulla.
 - Koodisto: Koodistopalvelin: THL - SOTE-organisaatiorekisteri 1.2.246.537.6.202 → valitse koodistosta
 - Esim: 1.2.246.10.1012636.10.1.1.100768 = Espoon keskuksen lastensuojelu, Espoon kaupunki, sosiaali- ja terveystoimi
-- 
